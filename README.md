@@ -24,7 +24,8 @@ I created a three-tier network that includes IT, OT, and a Remote Pump environme
 5. Applied security configurations
 
 ## Proof of Work
-![Step1]
-![PC](pc0.png)
-![HTTPS](https.png)
-![Router](router.png)
+
+![Step1](screenshot step 1.png)
+![HTTPS](Screenshot HTTPS.png)
+![PC](screenshot pc0.png)
+![Router](screenshot router.png)
