@@ -22,7 +22,7 @@ I created a three-tier network that includes IT, OT, and a Remote Pump environme
 3. Configured connections between routers and switches
 4. Tested connectivity between devices
 5. Applied security configurations
-##Proof of Work 
+## Proof of Work 
 ![Step1](screenshot step 1.png)
 
 ![HTTPS](Screenshot HTTPS.png)
